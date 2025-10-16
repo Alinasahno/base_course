@@ -1,0 +1,6 @@
+a = input("Возраст: ")
+b = input("Имя: ")
+c = input("Город: ")
+d = input("Класс: ")
+e = input("Пол: ")
+print([a, e, b, c, d ])
