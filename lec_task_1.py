@@ -1,4 +1,6 @@
-x = int(input())
-if a % 2:
-    print("T")
+x = int(input("Введите целое число"))
+if x % 2 == 0:
+    print("Число четное")
+else:
+    print("Число нечетное")
      
